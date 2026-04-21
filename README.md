@@ -1,2 +1,7 @@
-# password-strength-checker
-Simple password strength checker using HTML, CSS and JavaScript for practice.
+# Password Strength Checker
+
+Basic password strength checker using HTML, CSS and JavaScript.
+
+Made for practice.
+
+Educational purpose only.
